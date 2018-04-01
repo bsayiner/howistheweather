@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hava Nasıl?</string>
+    <string name="humidity">NEM</string>
+    <string name="rain">YAĞMUR?</string>
+</resources>
